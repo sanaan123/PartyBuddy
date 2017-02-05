@@ -1,0 +1,2 @@
+# PartyBuddy
+App that allows the process of making teams, brackets, lines, etc, even easier and simpler! Also, allows a group of people listening to music to be confined in one playlist, while the members are requesting songs to be added which would initially be decided upon the host once he/she receives the request. Can be implemented in hackathons during smash bro tournaments, video game tournaments, beer pong, recreational activites, etc. 
